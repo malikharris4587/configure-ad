@@ -24,10 +24,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Use Azure and create a Windows server virtual machine 
+- Create a client virtual machine on the same virtual network as the Windows server
+- Install Active Directory on the server VM
+- Promote it to a domain controller
 
 <h2>Deployment and Configuration Steps</h2>
 
