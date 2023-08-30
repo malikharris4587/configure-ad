@@ -8,7 +8,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Video Demonstration</h2>
 
-Watch for an easy tutorial!
+Watch for an easy tutorial! In the video i go a step further and use Powershell ISE to create user accounts and log into the client with a newly generated account. 
 - ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute][(https://www.youtube.com)](https://youtu.be/ziH9YsW2PrY)
 
 <h2>Environments and Technologies Used</h2>
